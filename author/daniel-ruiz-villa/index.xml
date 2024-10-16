@@ -2,15 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daniel Ruiz Villa</title>
-    <link>https://danielRV7.github.io/author/daniel-ruiz-villa/</link>
-      <atom:link href="https://danielRV7.github.io/author/daniel-ruiz-villa/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/daniel-ruiz-villa/</link>
+      <atom:link href="http://localhost:1313/author/daniel-ruiz-villa/index.xml" rel="self" type="application/rss+xml" />
     <description>Daniel Ruiz Villa</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://danielRV7.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://localhost:1313/images/icon_hu10226378635250344412.png</url>
       <title>Daniel Ruiz Villa</title>
-      <link>https://danielRV7.github.io/author/daniel-ruiz-villa/</link>
+      <link>http://localhost:1313/author/daniel-ruiz-villa/</link>
     </image>
+    
+    <item>
+      <title>Daniel Ruiz Villa</title>
+      <link>http://localhost:1313/author/daniel-ruiz-villa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/daniel-ruiz-villa/</guid>
+      <description>&lt;p&gt;Hi! Welcome to my personal web page, my name is Daniel and I am a computer engineer. I consider myself a persistent person in learning new disciplines and very applied at work, someone who pays close attention to detail, and passionate about computer science and technology. Specifically, I have a preference for programming and information technologies. It is important to invest in yourself, that is why I believe we should keep learning skills that differenciate us from others. I often develop projects and applications in my free time, you can find some of them in my GitHub profile.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
